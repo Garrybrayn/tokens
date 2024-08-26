@@ -39,7 +39,7 @@
       },
       {
         "name": "Tether USD",
-        "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+        "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",0xB1eEf8192765927e6019C0460cF62bE860309Be7
         "symbol": "USDT",
         "decimals": 6,
         "chainId": 1313161554,
@@ -103,7 +103,7 @@
       },
       {
         "name": "Polygon",
-        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",0xB1eEf8192765927e6019C0460cF62bE860309Be7
         "symbol": "MATIC",
         "decimals": 18,
         "chainId": 1313161554,
@@ -111,7 +111,7 @@
       },
       {
         "name": "Binance Coin",
-        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",0xB1eEf8192765927e6019C0460cF62bE860309Be7
         "symbol": "BNB",
         "decimals": 18,
         "chainId": 1313161554,
@@ -143,7 +143,7 @@
       },
       {
         "name": "MoonFlower Farmers Token",
-        "address": "0x78B65477bBa78fc11735801D559C386611d07529",
+        "address": "0x78B65477bBa78fc11735801D559C386611d07529",0xB1eEf8192765927e6019C0460cF62bE860309Be7
         "symbol": "MFF",
         "decimals": 18,
         "chainId": 1313161554,
@@ -151,7 +151,7 @@
       },
       {
         "name": "Meta Token",
-        "address": "0xc21ff01229e982d7c8b8691163b0a3cb8f357453",
+        "address": "0xc21ff01229e982d7c8b8691163b0a3cb8f357453",0xB1eEf8192765927e6019C0460cF62bE860309Be7
         "symbol": "META",
         "decimals": 24,
         "chainId": 1313161554,
